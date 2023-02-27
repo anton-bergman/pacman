@@ -1,0 +1,36 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch PacmanTester",
+      "request": "launch",
+      "mainClass": "se.liu.antbe028.pacman.PacmanTester",
+      "projectName": "tdde30-projekt-2021-d1-g22-08_1eca91d5"
+    },
+    {
+      "type": "java",
+      "name": "Launch PacmanTester",
+      "request": "launch",
+      "mainClass": "Pacman.PacmanTester",
+      "projectName": "tdde30-projekt-2021-d1-g22-08_4efa52eb"
+    },
+    {
+      "type": "java",
+      "name": "Launch PacmanTester",
+      "request": "launch",
+      "mainClass": "PacmanTester",
+      "projectName": "tdde30-projekt-2021-d1-g22-08_4efa52eb"
+    },
+    {
+      "type": "java",
+      "name": "Launch PacmanTester",
+      "request": "launch",
+      "mainClass": "PacmanTester",
+      "projectName": "tdde30-projekt-2021-d1-g22-08"
+    }
+  ]
+}
